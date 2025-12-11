@@ -1,0 +1,4 @@
+model,accuracy,balanced_accuracy,f1_macro,roc_auc
+Naive-Persistence,0.5201,0.516,0.516,
+Logistic-Cls,0.5296,0.5081,0.4881,0.4787
+LSTM-Cls,0.5364,0.4923,0.3601,0.4757
